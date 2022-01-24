@@ -1,5 +1,5 @@
 .first-section{
-    margin-top: 140px;
+    margin-top: 100px;
 }
 .fa-check-circle{
     color: #5243C2;
@@ -14,8 +14,8 @@
     background-color: #5243c24b;
 }
 .package{
-    margin-top: -40px;
-    padding: 30px;
+  margin-top: -20px;
+   padding: 30px;
    background-color: #3F87F5;
   
     
@@ -35,4 +35,11 @@
     height: 300px;
     background-color: black;
    
+}
+.third-section{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.paragraph{
+    text-align: justify;
 }
