@@ -1,10 +1,38 @@
-.first-section{
+/* sections styles  */
+.new-year-section{
     margin-top: 100px;
+    margin-bottom: 100px;
+}
+.package-section{
+    margin-top: 100px;
+}
+.package{
+    margin-top: -20px;
+     padding: 30px;
+     background-color: #3F87F5;   
+  }
+  .package .button{
+      background-color: white;
+  }
+  .accordion-section{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+/* common utilites and their styles  */
+.carousel-inner .button{
+    background-color: white;
+}
+.paragraph{
+    text-align: justify;
 }
 .fa-check-circle{
     color: #5243C2;
     background-color: #5243c24b;
     border-radius: 50%;
+}
+.package .fa-check-circle{
+    color: white;
+    background-color: rgba(0, 255, 255, 0.363);
 }
 .button{
     font-size: 20px;
@@ -13,37 +41,10 @@
     color: #5243C2;
     background-color: #5243c24b;
 }
-.carousel-inner .button{
-    background-color: white;
-}
-.package{
-  margin-top: -20px;
-   padding: 30px;
-   background-color: #3F87F5;
-  
-    
-}
-.package .button{
-    background-color: white;
-}
-.package .fa-check-circle{
-    color: white;
-    background-color: rgba(0, 255, 255, 0.363);
-}
-.second-section{
-    margin-top: 100px;
-    margin-bottom: 100px;
-}
+/* footer styles */
 .footer{
     height: 300px;
     background-color: black;
-   
 }
-.third-section{
-    margin-top: 100px;
-    margin-bottom: 100px;
-}
-.paragraph{
-    text-align: justify;
-}
+
 
